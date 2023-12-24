@@ -54,4 +54,4 @@ async def on_message(message):
         await message.channel.delete()
         del active_channels[message.author.id]
 
-client.run('MTE4ODE5NTc0NzAwNzU2OTk1MQ.GahjEs.iFN56b-gnjEADgU5xu3ybFi3LMnAmO_TcPN8Nc')
+client.run('token_aqui')
